@@ -1,3 +1,2 @@
-spring.profiles: subject
-words: Srihaas,Vihaas,Lucky,Vicky
+eureka.client.serviceUrl.defaultZone: http://localhost:8010/eureka/
 
