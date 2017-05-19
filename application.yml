@@ -1,1 +1,8 @@
 eureka.client.serviceUrl.defaultZone: http://localhost:8010/eureka/
+---
+spring.profiles: subject
+words: Srihaas,Vihaas,Lucky,Vicky
+
+---
+spring.profiles: verb
+words: put,make,pull,push
