@@ -1,3 +1,4 @@
+spring.profiles : verb
 words: I,You,He,She,It
 
 ---
