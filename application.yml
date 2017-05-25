@@ -1,8 +1,1 @@
----
-spring:
-  profiles: article
-words: a,b,c
----
-spring:
-  profiles: subject
-words: d,e,f
+eureka.client.serviceUrl.defaultZone=http://localhost:8010/eureka/
